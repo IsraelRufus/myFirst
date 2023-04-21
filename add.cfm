@@ -2,4 +2,4 @@
 <cfset b = 28>
 
 <!--- added a comment --->
-<cfoutput>#a+b#</cfoutput>
+<cfoutput>#a#</cfoutput>
