@@ -1,4 +1,4 @@
-<cfset a = 1>
-<cfset b = 2>
+<cfset a = 100>
+<cfset b = 28>
 
 <cfoutput>#a+b#</cfoutput>
